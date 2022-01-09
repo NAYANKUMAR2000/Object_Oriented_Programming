@@ -2,7 +2,7 @@ import java.io.*;
 class TWIN_PRIME 
 {
 	public static void main(String[] args) throws IOException {
-		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in))u
 		int a, b, c1 = 0, c2 = 0;
 		System.out.println("ENTER FIRST NUMBER");
 		a = Integer.parseInt(br.readLine());
